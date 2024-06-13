@@ -1,6 +1,6 @@
 # Task Manager Django Project
 
-Step 1: Clone the Repository
+Step 1: Clone the Repository From development branch
 Step 2:cd taskmanager
 Step 3:Create your virtual env and activate it
 (python3 -m venv env, source bin/env/activate)
